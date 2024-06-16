@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohammedakbark
-- 👀 I’m interested in Mobile application Developement
+- 👀 I’m interested in Mobile application Development
 - 🌱 I’m currently learning Flutter,Dart,Node Js
 - 📫 How to reach me akbarmohd00123@gmail.com
 
